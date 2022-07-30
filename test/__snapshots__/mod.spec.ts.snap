@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`suite ImmMap works 1`] = `
+Map {
+  1 => 2,
+}
+`;
+
+exports[`suite ImmMap works 2`] = `
+Map {
+  1 => 2,
+  3 => 4,
+}
+`;
+
+exports[`suite ImmMap works 3`] = `
+Map {
+  1 => 2,
+  3 => 4,
+}
+`;
+
+exports[`suite ImmMap works 4`] = `
+Map {
+  3 => 4,
+}
+`;
+
+exports[`suite ImmMap works 5`] = `
+Map {
+  3 => 4,
+}
+`;
+
+exports[`suite ImmMap works 6`] = `Map {}`;
+
+exports[`suite ImmSet works 1`] = `
+Set {
+  1,
+  2,
+}
+`;
+
+exports[`suite ImmSet works 2`] = `
+Set {
+  1,
+  2,
+  3,
+}
+`;
+
+exports[`suite ImmSet works 3`] = `
+Set {
+  1,
+  2,
+  3,
+}
+`;
+
+exports[`suite ImmSet works 4`] = `
+Set {
+  2,
+  3,
+}
+`;
+
+exports[`suite ImmSet works 5`] = `
+Set {
+  2,
+  3,
+}
+`;
+
+exports[`suite ImmSet works 6`] = `Set {}`;
